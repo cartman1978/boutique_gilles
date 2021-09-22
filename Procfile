@@ -1,0 +1,1 @@
+web: gunicorn boutique-gil.wsgi:application
